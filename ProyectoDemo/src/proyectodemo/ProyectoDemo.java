@@ -17,6 +17,7 @@ public class ProyectoDemo {
     public static void main(String[] args) {
         // TODO code application logic 
         int x=2;
+        System.out.println("2");
     }
     
 }
